@@ -27,7 +27,7 @@ A correlation ranker revealed that certain ethnicities do marginally better than
 
 The datasets used are New York Statewide Testing results limited to NYC schools.
 
-URL: https://yumandee.github.io/DS_Project/
+URL: https://yumandee.github.io/ethnic_bias_ds/
 
 GitHub: https://github.com/yumandee
 
