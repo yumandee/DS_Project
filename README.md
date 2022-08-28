@@ -31,4 +31,4 @@ URL: https://yumandee.github.io/DS_Project/
 
 GitHub: https://github.com/yumandee
 
-LinkedIn: https://www.linkedin.com/in/mandy-yu-378a49162/
+LinkedIn: https://www.linkedin.com/in/yumandee/
